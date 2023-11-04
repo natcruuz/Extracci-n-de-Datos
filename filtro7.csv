@@ -1,0 +1,18 @@
+name,code,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Comoros,COM,Africa,Eastern Africa,1862.0,1975.0,578000,60.0,4401.0,4361.0,Komori/Comores,Republic,Azali Assoumani,2295.0,KM
+Cape Verde,CPV,Africa,Western Africa,4033.0,1975.0,428000,68.9,435.0,420.0,Cabo Verde,Republic,Antonio Mascarenhas Monteiro,1859.0,CV
+Algeria,DZA,Africa,Northern Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35.0,DZ
+Egypt,EGY,Africa,Northern Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+Eritrea,ERI,Africa,Eastern Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+Ghana,GHA,Africa,Western Africa,238533.0,1957.0,20212000,57.4,7137.0,6884.0,Ghana,Republic,John Kufuor,910.0,GH
+Libyan Arab Jamahiriya,LBY,Africa,Northern Africa,1759540.0,1951.0,5605000,75.5,44806.0,40562.0,Libiya,Socialistic State,Muammar al-Qadhafi,2441.0,LY
+Morocco,MAR,Africa,Northern Africa,446550.0,1956.0,28351000,69.1,36124.0,33514.0,Al-Maghrib,Constitutional Monarchy,Mohammed VI,2486.0,MA
+Mauritius,MuS,Africa,Eastern Africa,2040.0,1968.0,1158000,71.0,4251.0,4186.0,Mauritius,Republic,Cassam uteem,2511.0,Mu
+Mayotte,MYT,Africa,Eastern Africa,373.0,,149000,59.5,0.0,,Mayotte,Territorial Collectivity of France,Jacques Chirac,2514.0,YT
+Reunion,REu,Africa,Eastern Africa,2510.0,,699000,72.7,8287.0,7988.0,Reunion,Overseas Department of France,Jacques Chirac,3017.0,RE
+Sudan,SDN,Africa,Northern Africa,2505813.0,1956.0,29490000,56.6,10162.0,,As-Sudan,Islamic Republic,Omar Hassan Ahmad al-Bashir,3225.0,SD
+Senegal,SEN,Africa,Western Africa,196722.0,1960.0,9481000,62.2,4787.0,4542.0,Senegal/Sounougal,Republic,Abdoulaye Wade,3198.0,SN
+Saint Helena,SHN,Africa,Western Africa,314.0,,6000,76.8,0.0,,Saint Helena,Dependent Territory of the uK,Elisabeth II,3063.0,SH
+Sao Tome and Principe,STP,Africa,Central Africa,964.0,1975.0,147000,65.3,6.0,,Sao Tome e PrIncipe,Republic,Miguel Trovoada,3172.0,ST
+Seychelles,SYC,Africa,Eastern Africa,455.0,1976.0,77000,70.4,536.0,539.0,Sesel/Seychelles,Republic,France-Albert Rene,3206.0,SC
+Tunisia,TuN,Africa,Northern Africa,163610.0,1956.0,9586000,73.7,20026.0,18898.0,Tunis/Tunisie,Republic,Zine al-Abidine Ben Ali,3349.0,TN
